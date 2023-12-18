@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ReactNativeCarProject",
+			"path": "../.."
+		},
+		{
+			"name": "images",
+			"path": "../../../../../Downloads/assets/images"
+		}
+	],
+	"settings": {}
+}
