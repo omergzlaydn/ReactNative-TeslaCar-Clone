@@ -1,7 +1,5 @@
 # React Native Tesla Araba Projesi
 
-## Uygulama Geliştirme Pratiği
-
 Bu proje, React Native geliştirme becerilerinizi geliştirmek için bir fırsat sunmaktadır. Aşağıda, projede üzerinde çalıştığınız başlıca konular yer almaktadır:
 
 1. **Bileşenleri Dinamik Olarak Gösterme:**
